@@ -1,5 +1,5 @@
 {
-	"author": "MSX15",
+	"author": "Mohamed Siyah",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
