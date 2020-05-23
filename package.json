@@ -1,6 +1,6 @@
 {
-	"author": "Mohamed Siyah",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mohamed Siyah",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
